@@ -15,3 +15,6 @@ See also [Developer Tutorial](https://experienceleague.adobe.com/en/docs/experie
 2. Add the [AEM Code Sync GitHub App](https://github.com/apps/aem-code-sync) to the repository, so your code changes get synced with EDS.
 4. Update the mountpoint in `fstab.yaml`
 5. Update the path mappings in `paths.json`
+
+
+Horatiu
