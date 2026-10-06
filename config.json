@@ -1,8 +1,8 @@
 {
   "public": {
     "default": {
-      "version": "baseline",
-      "aem" : {
+      "version": "dep-0de4d28612284e93bab3805a8335bb2c",
+      "aem": {
         "author": "https://author-p190061-e1982485.adobeaemcloud.com",
         "publish": "https://publish-p190061-e1982485.adobeaemcloud.com"
       },
@@ -34,8 +34,8 @@
       },
       "plugins": {
         "picker": {
-           "rootCategory": "2"
-         }
+          "rootCategory": "2"
+        }
       }
     }
   }
