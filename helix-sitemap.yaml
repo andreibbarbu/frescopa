@@ -1,5 +1,6 @@
 sitemaps:
   default:
+    origin: https://frescopa-unibuc.testaemcloud.com
     source: /sitemap.json
     destination: /sitemap-content.xml
     lastmod: YYYY-MM-DD
